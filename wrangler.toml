@@ -1,4 +1,4 @@
-name = "wajik-anime-api"
+name = "animeapi44"
 main = "src/index.ts"
 compatibility_date = "2023-12-18"
 compatibility_flags = ["nodejs_compat"]
